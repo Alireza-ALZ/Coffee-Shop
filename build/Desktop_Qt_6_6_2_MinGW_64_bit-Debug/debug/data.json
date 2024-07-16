@@ -1,0 +1,137 @@
+{
+    "Product" : [
+        {
+            "inventory": "80",
+            "name": "Orange Juice",
+            "price": "30000",
+            "type": "cold",
+            "uniqid": "1101"
+        },
+        {
+            "inventory": "80",
+            "name": "Tea",
+            "price": "10000",
+            "type": "hot",
+            "uniqid": "1201"
+        },
+        {
+            "inventory": "40",
+            "name": "Pasta",
+            "price": "80000",
+            "type": "food",
+            "uniqid": "1301"
+        },
+        {
+            "inventory": "30",
+            "name": "Green Tea",
+            "price": "15000",
+            "type": "hot",
+            "uniqid": "1202"
+        },
+        {
+            "inventory": "150",
+            "name": "Espresso Coffee",
+            "price": "40000",
+            "type": "hot",
+            "uniqid": "1203"
+        },
+        {
+            "inventory": "50",
+            "name": "Apple Juice",
+            "price": "25000",
+            "type": "cold",
+            "uniqid": "1102"
+        },
+        {
+            "inventory": "60",
+            "name": "Banana Milk",
+            "price": "35000",
+            "type": "cold",
+            "uniqid": "1103"
+        },
+        {
+            "inventory": "250",
+            "name": "Ice cream",
+            "price": "15000",
+            "type": "cold",
+            "uniqid": "1104"
+        },
+        {
+            "inventory": "80",
+            "name": "Soup",
+            "price": "25000",
+            "type": "food",
+            "uniqid": "1302"
+        },
+        {
+            "inventory": "50",
+            "name": "Fried Egg",
+            "price": "30000",
+            "type": "food",
+            "uniqid": "1303"
+        },
+        {
+            "inventory": "100",
+            "name": "Nescafe",
+            "price": "35000",
+            "type": "hot",
+            "uniqid": "1204"
+        },
+        {
+            "inventory": "60",
+            "name": "Hot Chocolate",
+            "price": "30000",
+            "type": "hot",
+            "uniqid": "1205"
+        },
+        {
+            "inventory": "100",
+            "name": "Ice cream Cake",
+            "price": "25000",
+            "type": "cold",
+            "uniqid": "1105"
+        },
+        {
+            "inventory": "40",
+            "name": "Carrot Juice",
+            "price": "20000",
+            "type": "cold",
+            "uniqid": "1106"
+        },
+        {
+            "inventory": "120",
+            "name": "Espresso Double Coffee",
+            "price": "50000",
+            "type": "hot",
+            "uniqid": "1206"
+        },
+        {
+            "inventory": "20",
+            "name": "Masala Tea",
+            "price": "25000",
+            "type": "hot",
+            "uniqid": "1207"
+        },
+        {
+            "inventory": "35",
+            "name": "Omelette",
+            "price": "40000",
+            "type": "food",
+            "uniqid": "1304"
+        },
+        {
+            "inventory": "15",
+            "name": "Mojito",
+            "price": "40000",
+            "type": "cold",
+            "uniqid": "1107"
+        },
+        {
+            "inventory": "60",
+            "name": "Cappuccino Coffee",
+            "price": "45000",
+            "type": "hot",
+            "uniqid": "1208"
+        }
+    ]
+}
